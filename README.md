@@ -46,10 +46,10 @@ Tools & Technologies
   <img src="https://img.shields.io/badge/Supabase-006B4F?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 🎯 Current Goals<br>
-Strengthen my programming and problem-solving skills
-Build practical Machine Learning projects
-Learn to integrate AI models into applications
-Improve my workflow with Git and GitHub
+-Strengthen my programming and problem-solving skills
+-Build practical Machine Learning projects
+-Learn to integrate AI models into applications
+-Improve my workflow with Git and GitHub
 
 
 ⸻
