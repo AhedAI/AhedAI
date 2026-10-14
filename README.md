@@ -45,12 +45,13 @@ Tools & Technologies
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00C896" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-006B4F?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
-🎯 Current Goals<br>
--Strengthen my programming and problem-solving skills
--Build practical Machine Learning projects
--Learn to integrate AI models into applications
--Improve my workflow with Git and GitHub
-
+<h2>🎯 Current Goals</h2>
+<ul>
+  <li>Strengthen my programming and problem-solving skills.</li>
+  <li>Build practical Machine Learning projects.</li>
+  <li>Learn to integrate AI models into applications.</li>
+  <li>Improve my software development workflow with Git and GitHub.</li>
+</ul>
 
 ⸻
 
