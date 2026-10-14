@@ -10,15 +10,15 @@
 ⸻
 
 
-🌿 About Me
-🎓 Artificial Intelligence student
-💻 Building practical programming projects
-🧠 Interested in Machine Learning and intelligent systems
-📊 Exploring data analysis and visualization
-🚀 Working toward becoming an AI Engineer
-🌱 Continuously learning and improving my skills
-🛠️ Technical Skills
-Programming Languages
+<h2>🌿 About Me</h2>
+<ul>
+  <li>🎓 Artificial Intelligence student</li>
+  <li>💻 Building practical programming projects</li>
+  <li>🧠 Interested in Machine Learning and intelligent systems</li>
+  <li>📊 Exploring data analysis and visualization</li>
+  <li>🚀 Working toward becoming an AI Engineer</li>
+  <li>🌱 Always learning and improving my skills</li>
+</ul>
 <p>
   <img src="https://img.shields.io/badge/Python-006B4F?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-006B4F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
